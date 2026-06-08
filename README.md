@@ -1,4 +1,4 @@
-# ✋ AR Whiteboard
+# AR Whiteboard
 
 **Draw in the air with your bare hands.** AR Whiteboard uses your webcam and real-time AI hand tracking to let you paint neon strokes mid-air — no stylus, no touch screen, just your fingers.
 
