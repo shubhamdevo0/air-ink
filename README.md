@@ -135,12 +135,6 @@ ar-whiteboard/
 
 ---
 
-## License
-
-MIT — do whatever you like with it.
-
----
-
 ## Acknowledgements
 
 - [MediaPipe Hands](https://google.github.io/mediapipe/solutions/hands) by Google
